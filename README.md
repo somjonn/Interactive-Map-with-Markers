@@ -1,3 +1,20 @@
+
+
+![Uploading map.PNG…]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project is an interactive web application that allows users to mark and explore locations on a map. It utilizes the Leaflet library for mapping functionalities and provides a user-friendly interface for adding markers, viewing marker details, and managing markers.
 
 Features:
